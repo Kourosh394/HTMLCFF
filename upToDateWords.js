@@ -1,2 +1,2 @@
-const en = "March";
-const fa = "شیراز";
+window.en = "March";
+window.fa = "شیراز";
