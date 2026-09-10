@@ -1,2 +1,2 @@
-const eng = "March";
+const en = "March";
 const fa = "شیراز";
