@@ -1,2 +1,2 @@
-window.en = "April";
-window.fa = "تهران";
+window.en = "I saw";
+window.fa = "5حرفی";
