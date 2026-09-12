@@ -1,2 +1,2 @@
-window.en = "phone";
-window.fa = "چرا؟!";
+window.en = "draft";
+window.fa = "دقیقا";
